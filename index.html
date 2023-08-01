@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Quench your thirst with Pepsi's range of refreshing beverages & delicious soft drinks. Experience the iconic taste that keeps you coming back for more."
+    />
+    <meta
+      name="keywords"
+      content="Pepsi, soft drinks, beverages, refreshing, carbonated drinks, cola, soda"
+    />
+    <meta
+      property="og:title"
+      content="Pepsi &mdash; Refreshing Beverages & Delicious Soft Drinks"
+    />
+    <meta
+      property="og:description"
+      content="Quench your thirst with Pepsi's range of refreshing beverages & delicious soft drinks. Experience the iconic taste that keeps you coming back for more."
+    />
+    <meta property="og:image" content="./assets/demo/landing-page.jpg" />
+    <meta property="og:url" content="https://jrpranav.github.io/pepsi.git" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Pepsi" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@Pepsi" />
+    <meta
+      name="twitter:title"
+      content="Pepsi: Refreshing Beverages & Delicious Soft Drinks"
+    />
+    <meta
+      name="twitter:description"
+      content="Quench your thirst with Pepsi's range of refreshing beverages & delicious soft drinks. Experience the iconic taste that keeps you coming back for more."
+    />
+    <meta name="twitter:image" content="./assets/demo/" />
+    <meta name="twitter:url" content="https://jrpranav.github.io/pepsi.git" />
+
+    <!-- custom css file -->
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <title>Pepsi &mdash; Refreshing Beverages & Delicious Soft Drinks</title>
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="#">
+          <img src="./assets/images/logo.png" class="logo" alt="pepsi-logo" />
+        </a>
+        <div class="toggle" onclick="menuToggle()"></div>
+        <ul class="navigation">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Products</a></li>
+          <li><a href="#">What's new</a></li>
+          <li><a href="#">Newsletter</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </header>
+      <div class="content">
+        <div class="textBox">
+          <h2>That's What<br /><span>I Like</span></h2>
+          <p>
+            Embrace the fizz, savor the flavor! Welcome to Pepsi's world of
+            refreshment, where every sip delights and every moment sparkles.
+            Unleash the taste of joy today!" 🥤✨ #PepsiPerfection
+          </p>
+          <a href="#">View All Products</a>
+        </div>
+        <div class="imgBox">
+          <img
+            src="./assets/images/pepsi001.png"
+            alt="pepsi-can-image"
+            class="pepsi"
+          />
+        </div>
+      </div>
+      <ul class="thumb">
+        <li>
+          <img
+            src="./assets/images/pepsi001.png"
+            alt="image-button"
+            onclick="imgSlider('./assets/images/pepsi001.png');changeColor('#0062be')"
+          />
+        </li>
+        <li>
+          <img
+            src="./assets/images/pepsi002.png"
+            alt="image-button"
+            onclick="imgSlider('./assets/images/pepsi002.png');changeColor('#e60c2c')"
+          />
+        </li>
+        <li>
+          <img
+            src="./assets/images/pepsi003.png"
+            alt="image-button"
+            onclick="imgSlider('./assets/images/pepsi003.png');changeColor('#1e1e1e')"
+          />
+        </li>
+      </ul>
+      <ul class="social">
+        <li>
+          <a href="#">
+            <img src="./assets/images/facebook.png" alt="facebook-icon" />
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <img src="./assets/images/instagram.png" alt="instagram-icon" />
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <img src="./assets/images/twitter.png" alt="twitter-icon" />
+          </a>
+        </li>
+      </ul>
+    </main>
+    <!-- custom javascript file -->
+    <script src="./assets/js/script.js"></script>
+  </body>
+</html>
