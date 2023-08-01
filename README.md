@@ -1,9 +1,8 @@
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/jrpranav/responsive-pepsi)
-![GitHub stars](https://img.shields.io/github/stars/jrpranav/responsive-starbucks-lp?style=social)
-![GitHub forks](https://img.shields.io/github/forks/jrpranav/responsive-starbucks-lp?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jrpranav?style=social)](https://twitter.com/intent/follow?screen_name=jrpranav)
+![GitHub repo size](https://img.shields.io/github/repo-size/Pranav-Jadhav09/responsive-starbucks-landing-page)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Pranav_Jadhav09?style=social)](https://twitter.com/Pranav_Jadhav09)
+[![Hashnode Badge](https://img.shields.io/badge/Read_Blog-2962FF?style=social&logo=hashnode&logoColor=blue)](https://thejrpranav09.hashnode.dev/brewing-my-web-dev-adventure-building-a-starbucks-landing-page)
 
 <br />
 <br />
@@ -14,7 +13,7 @@
 
 Pepsi is a fully responsive landing page website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-<a href="https://jrpranav.github.io/pepsi.git"><strong>➥ Live Demo</strong></a>
+<a href="https://github.io/responsive-pepsi.git"><strong>➥ Live Demo</strong></a>
 
 </div>
 
