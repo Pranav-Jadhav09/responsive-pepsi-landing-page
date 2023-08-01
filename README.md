@@ -13,7 +13,7 @@
 
 Pepsi is a fully responsive landing page website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-<a href="https://github.io/responsive-pepsi.git"><strong>➥ Live Demo</strong></a>
+<a href="https://pranav-jadhav09.github.io/responsive-pepsi-landing-page/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
